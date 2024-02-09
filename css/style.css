@@ -1,0 +1,40 @@
+*{
+    background-color:floralwhite;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+select{
+    height: 40px;
+}
+
+i{
+    cursor: pointer;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.url-button{
+    background-color: crimson;
+}
+
+.clear-button{
+    background-color: lightblue;
+}
+
+input[type="text"]{
+    outline: none;
+}
